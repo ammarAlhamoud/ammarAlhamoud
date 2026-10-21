@@ -12,8 +12,8 @@
 ## Explore the work
 
 - **Architecture:** how application rules, state and interfaces are separated.
-- **Verification:** tests and build instructions are documented in each repository.
-- **Scope:** these are personal projects and prototypes; their documentation describes behavior and limitations.
+- **Verification:** explore each repository’s implementation and available verification instructions.
+- **Scope:** these are personal projects and prototypes with different levels of completeness.
 - **Development process:** AI-assisted work is documented in the relevant projects.
 
 Older course exercises and experiments remain available in the repository list as a learning history.
