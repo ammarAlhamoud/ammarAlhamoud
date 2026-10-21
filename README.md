@@ -1,6 +1,26 @@
 # Hi, I'm Ammar
 
-**TypeScript projects · Business application prototypes · Interactive simulations**
+**Software developer · Business applications · Angular & TypeScript**
+
+Based in the Stuttgart area, Germany. I work on business applications and use this profile to share personal projects, engineering decisions and learning experiments.
+
+## Professional experience
+
+**Software Developer · PTA GmbH · 2021–present**
+
+- Frontend development for web applications in the banking domain using Angular, TypeScript and RxJS.
+- State management with NgRx and Signal Store, complex forms, DevExtreme components and framework upgrades.
+- Code reviews, end-to-end testing and collaboration in Scrum teams working with Angular and .NET Core.
+
+## Education
+
+- Studied Mathematics at university in Syria.
+- Staatlich geprüfter Informatiker — Gottlieb-Daimler-Schule, Germany.
+
+## Current direction
+
+I am developing my skills in problem analysis, solution design, AI-assisted software development, automation and LLM integration. My public projects document implementation decisions and verification limits.
+
 
 ## Selected projects
 
@@ -21,3 +41,4 @@ Older course exercises and experiments remain available in the repository list a
 ---
 
 **Deutsch:** Ausgewählte Softwareprojekte mit Fokus auf nachvollziehbare Anwendungslogik, Architektur und überprüfbares Verhalten.
+
